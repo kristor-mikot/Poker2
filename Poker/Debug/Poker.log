@@ -1,0 +1,36 @@
+﻿  Game.cpp
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.h(59,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.h(67,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(24,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(76,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(168,51): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(169,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(195,52): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(196,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(252,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(275,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(276,53): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(313,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(314,53): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(239,6): warning C4101: resh: неиспользованная локальная переменная
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(362,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(384,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(385,56): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(389,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(390,53): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(358,6): warning C4101: resh: неиспользованная локальная переменная
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(415,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(422,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(439,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(446,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(458,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(481,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(506,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(523,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(547,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(562,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(576,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(608,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(655,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegn_000\source\repos\Poker\Poker\Game.cpp(519): warning C4715: Game::proverka_na_okonch: значение возвращается не при всех путях выполнения
+  Poker.vcxproj -> C:\Users\olegn_000\source\repos\Poker\Debug\Poker.exe
